@@ -12,6 +12,7 @@ sites:
    # url: https://news.ycombinator.com
   - name: MindWork
     url: https://mindwork.tech
+    icon: https://www.google.com/favicon.ico
    # - name: Secret Site
   #  url: $SECRET_SITE
 i18n:
