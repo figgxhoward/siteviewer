@@ -2,7 +2,7 @@
   {
     "name": "MindWork",
     "url": "https://mindwork.tech",
-    "icon": "https://favicons.githubusercontent.com/mindwork.tech",
+    "icon": "https://www.google.com/favicon.ico",
     "slug": "mind-work",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 472,
-    "timeWeek": 472,
-    "timeMonth": 472,
-    "timeYear": 472,
+    "time": 468,
+    "timeDay": 468,
+    "timeWeek": 468,
+    "timeMonth": 468,
+    "timeYear": 468,
     "dailyMinutesDown": {}
   }
 ]
