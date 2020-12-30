@@ -14,12 +14,11 @@ sites:
     url: https://mindwork.tech
    # - name: Secret Site
   #  url: $SECRET_SITE
-
+i18n:
+    footer: Powered by [MindWork](https://mindwork.tech)
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: siteviewer
-  i18n:
-    footer: Powered by [MindWork](https://mindwork.tech)
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /siteviewer
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
