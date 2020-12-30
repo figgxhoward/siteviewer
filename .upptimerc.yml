@@ -20,13 +20,13 @@ status-website:
  # cname: siteviewer
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /siteviewer
-  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: siteviewer
-  introTitle: "**SiteViewer** is site that shows websites, web app, APIs uptime and statistics."
+  #introTitle: "**SiteViewer** is site that shows websites, web app, APIs uptime and statistics."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    #- title: Status
-     # href: /
+    - title: Status
+      href: /
     - title: MindWork
       href: https://mindwork.tech
 
