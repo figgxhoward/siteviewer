@@ -1,6 +1,6 @@
 # Change these first
 owner: figgxhoward # Your GitHub username
-repo: SiteViewer # Your GitHub repository name
+repo: siteviewer # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -19,7 +19,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
  # cname: siteviewer
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /SiteViewer
+  baseUrl: /siteviewer
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: SiteViewer
   #introTitle: "**SiteViewer** is site that shows websites, web app, APIs uptime and statistics."
@@ -29,8 +29,6 @@ status-website:
       href: https://figgxhoward.github.io/siteviewer
     - title: MindWork
       href: https://mindwork.tech
-  js: "window.onload = function() { alert('Hello!') }"
-  assignees:
-      - figgxhoward
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
