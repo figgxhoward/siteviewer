@@ -2,7 +2,7 @@
   {
     "name": "MindWork",
     "url": "https://mindwork.tech",
-    "icon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Fmw&psig=AOvVaw0xnJb_kDzcVX5SEvd7aXGa&ust=1609428805603000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJji-tuD9u0CFQAAAAAdAAAAABAE",
+    "icon": "https://favicons.githubusercontent.com/mindwork.tech",
     "slug": "mind-work",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 458,
-    "timeWeek": 458,
-    "timeMonth": 458,
-    "timeYear": 458,
+    "time": 471,
+    "timeDay": 471,
+    "timeWeek": 471,
+    "timeMonth": 471,
+    "timeYear": 471,
     "dailyMinutesDown": {}
   }
 ]
