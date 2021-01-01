@@ -13,8 +13,8 @@ sites:
   - name: MindWork
     url: https://mindwork.tech
     icon: https://www.google.com/favicon.ico
-   # - name: Secret Site
-  #  url: $SECRET_SITE
+  - name: Broken Site
+    url: https://thissitedoesnotexist.com
 i18n:
     footer: Powered by [MindWork](https://mindwork.tech)
 status-website:
