@@ -4,19 +4,19 @@
     "url": "https://mindwork.tech",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "mind-work",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 222,
-    "timeWeek": 356,
-    "timeMonth": 421,
-    "timeYear": 421,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 422,
+    "timeDay": 330,
+    "timeWeek": 365,
+    "timeMonth": 422,
+    "timeYear": 422,
     "dailyMinutesDown": {
-      "2021-01-06": 0
+      "2021-01-06": 18
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-06": 1317,
+      "2021-01-06": 1334,
       "2021-01-05": 1440,
       "2021-01-04": 1440,
       "2021-01-03": 1440,
